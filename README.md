@@ -1,4 +1,4 @@
-# Hi, I'm [Shriju Maharjan] 👋
+# Hi, I'm Shriju Maharjan 👋
 
 🎓 Business Analytics Graduate  
 📊 Skilled in R, Python, SAS, and SQL  
